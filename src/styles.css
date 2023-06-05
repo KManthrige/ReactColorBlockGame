@@ -1,0 +1,32 @@
+.title {
+    font-size: 30px;
+    font-family: serif;
+    color: black;
+    margin: 10px;
+}
+
+.grid{
+    display: grid;
+    grid-template-rows: auto;
+
+}
+.orangeBlock {
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    margin: 10px;
+}
+
+.purpleBlock {
+    width: 200px;
+    height: 200px;
+    background-color: purple;
+    margin: 10px;
+}
+
+.blackBlock {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    margin: 10px;
+}
